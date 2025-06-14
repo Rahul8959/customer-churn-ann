@@ -42,10 +42,9 @@ The dataset used is **Churn_Modelling.csv**, which includes the following featur
 
 ## Model Architecture
 
-- Input Layer: 11 features
-- Hidden Layer 1: 7 units, ReLU activation + Dropout(0.2)
-- Hidden Layer 2: 6 units, ReLU activation + Dropout(0.3)
-- Output Layer: 1 unit, Sigmoid activation
+Below is the architecture of the Artificial Neural Network used in this project:
+
+<img src="images/Model_architecture.png" alt="Model Architecture" width="300" height="450"/>
 
 ## Performance
 
