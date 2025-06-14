@@ -46,8 +46,6 @@ Below is the architecture of the Artificial Neural Network used in this project:
 
 <img src="images/Model_architecture.png" alt="Model Architecture" width="300" height="450"/>
 
-## Performance
-
 ## Model Performance
 
 | Metric        | Class 0 (Not Exited) | Class 1 (Exited) |
